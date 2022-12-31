@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(66, 22, 107);
+}
+
+.padding {
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
